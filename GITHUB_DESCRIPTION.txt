@@ -1,0 +1,2 @@
+An AI-powered autonomous research assistant that breaks down queries, searches the web, extracts knowledge, analyzes data, and generates comprehensive research reports with citations. Built with FastAPI, Streamlit, Groq LLM, and Tavily search.
+
