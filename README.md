@@ -398,7 +398,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by the ResearchAgent Team**
 
 ⭐ Star this repo if you find it useful!
 
